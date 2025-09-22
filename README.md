@@ -4,7 +4,7 @@ Proyecto de prueba desarrollado con **Next.js 13**, **TypeScript**, **Tailwind C
 
 ---
 
-## 📂 Estructura del proyecto
+## 📂 Estructura del proyecto.
 
 uvg-website/
 ├─ .next/
