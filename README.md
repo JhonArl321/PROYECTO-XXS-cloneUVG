@@ -52,7 +52,7 @@ uvg-website/
 
 1. Clona el repositorio:
 
-git clone https://github.com/tu-usuario/uvg-website.git
+git clone https://github.com/JhonArl321/PROYECTO-XXS-cloneUVG.git
 
 Accede al directorio del proyecto:
 
