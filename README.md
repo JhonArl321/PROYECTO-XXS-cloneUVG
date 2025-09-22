@@ -93,6 +93,15 @@ Mensaje de dispositivo hackeado (simulación de alerta crítica).
 
 Botón
 
+
+## 🔧 Configuración de Sheet.best
+
+- Este proyecto usa **Sheet.best** para registrar los datos de usuario en una hoja de cálculo.
+- Por defecto, se usa la URL pública incluida en el proyecto.
+- Si quieres usar tu propia hoja de cálculo, reemplaza la URL en `lib/google-sheets.ts` o en la función `sendUserDataToSheets` con la URL que te proporciona Sheet.best.
+
+
+
 📄 Notas importantes
 Este proyecto es para fines educativos y de prueba.
 
@@ -100,3 +109,8 @@ La alerta de “hackeo” es simulada, no afecta realmente tu sistema.
 
 Maneja los datos de usuarios con cuidado si decides probar autenticaciones reales.
 
+
+## 🌐 Ver Demo
+
+Puedes ver una **demo funcional** del proyecto en línea aquí:  
+https://universidadvalledeguatemala.netlify.app/
